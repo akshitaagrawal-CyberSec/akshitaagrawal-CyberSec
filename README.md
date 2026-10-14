@@ -11,7 +11,9 @@ I'm focused on **security operations, digital forensics and incident response**,
 
 ## 🛠 Tools & Skills
 **Defensive:** Wazuh · Sysmon · Wireshark · Autopsy · SIEM log analysis · Incident response
+
 **Offensive (lab):** Nmap · Burp Suite · Metasploit · SQLmap
+
 **Engineering:** Python · Docker · Linux · VMware · Google Cloud
 
 ## 📫 Contact
