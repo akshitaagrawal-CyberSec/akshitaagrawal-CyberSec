@@ -5,16 +5,20 @@ Cybersecurity M.Eng student at the **University of Maryland, College Park** (gra
 I'm focused on **security operations, digital forensics and incident response**, and I learn by building labs, investigating incidents and documenting what I find.
 
 ## 🔍 Projects
+
 | Project | Focus | Status |
 |---|---|---|
-| [Home SOC Lab: Wazuh + Sysmon](https://github.com/akshitaagrawal-CyberSec/cybersecurity-portfolio/tree/main/01-home-soc-lab) | SIEM deployment, detection, MITRE ATT&CK mapping | 🚧 In progress |
+| [Home SOC Lab: Wazuh + Sysmon](https://github.com/akshitaagrawal-CyberSec/cybersecurity-portfolio/tree/main/01-home-soc-lab) | SIEM deployment, detection, MITRE ATT&CK mapping | ✅ Complete |
+| [CyberDefenders Labs](https://github.com/akshitaagrawal-CyberSec/cybersecurity-portfolio/tree/main/02-cyberdefenders-labs) | Network forensics, incident investigation in Wireshark | 🔄 Ongoing |
 
-## 🛠 Tools & Skills
-**Defensive:** Wazuh · Sysmon · Wireshark · Autopsy · SIEM log analysis · Incident response
+## 🛠️ Tools & Skills
+
+**Defensive:** Wazuh · Sysmon · Wireshark · tshark · Autopsy · SIEM log analysis · Incident response
 
 **Offensive (lab):** Nmap · Burp Suite · Metasploit · SQLmap
 
 **Engineering:** Python · Docker · Linux · VMware · Google Cloud
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/akshita-agrawal-cybersec/) · akshitaagrawal2303@gmail.com
+
+[LinkedIn](https://linkedin.com/in/akshita-agrawal-cybersec) · [akshitaagrawal2303@gmail.com](mailto:akshitaagrawal2303@gmail.com)
