@@ -10,10 +10,11 @@ I'm focused on **security operations, digital forensics and incident response**,
 |---|---|---|
 | [Home SOC Lab: Wazuh + Sysmon](https://github.com/akshitaagrawal-CyberSec/cybersecurity-portfolio/tree/main/01-home-soc-lab) | SIEM deployment, detection, MITRE ATT&CK mapping | ✅ Complete |
 | [CyberDefenders Labs](https://github.com/akshitaagrawal-CyberSec/cybersecurity-portfolio/tree/main/02-cyberdefenders-labs) | Network forensics, incident investigation in Wireshark | 🔄 Ongoing |
+| [Splunk Detection Engineering Lab](https://github.com/akshitaagrawal-CyberSec/cybersecurity-portfolio/tree/main/03-splunk-detection-lab) | Custom SPL detections, Sysmon logging, MITRE ATT&CK mapping | ✅ Complete |
 
 ## 🛠️ Tools & Skills
 
-**Defensive:** Wazuh · Sysmon · Wireshark · tshark · Autopsy · SIEM log analysis · Incident response
+**Defensive:** Wazuh · Sysmon · Splunk · Wireshark · tshark · Autopsy · SIEM log analysis · Incident response
 
 **Offensive (lab):** Nmap · Burp Suite · Metasploit · SQLmap
 
